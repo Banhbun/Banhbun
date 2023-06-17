@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Banhbun
+- 👋 Hi, I’m bánh bao 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,3 +10,4 @@ Bạn có thể nhấp vào liên kết Xem trước để xem các thay đổi 
 ---
 -=)) Chọc cái gì
 -😪 cô chủ
+-❤️ Yêu cô chủ 
